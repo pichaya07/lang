@@ -735,7 +735,7 @@
     "This is a secure area of the application. Please confirm your password before continuing.": "นี่เป็นพื้นที่ปลอดภัยของการทำงานของโปรแกรม ได้โปรดยืนยันรหัสผ่านของคุณก่อนต่อ",
     "This password does not match our records.": "นี่รหัสผ่านไม่ตรงกับบันทึกของเรา",
     "This password reset link will expire in :count minutes.": "นี่รหัสผ่านใหม่เชื่อมโยงจะหมดอายุใน :count นาที",
-    "This payment was initiated, but the funds have not been received yet. This can take up to 14 days.": "This payment was initiated, but the funds have not been received yet. This can take up to 14 days.",
+    "This payment was initiated, but the funds have not been received yet. This can take up to 14 days.": "การทำรายการชำระเงินเริ่มต้นแล้ว แต่ยังไม่ได้รับเงิน ซึ่งอาจใช้เวลาสูงสุด 14 วันในการดำเนินการ",
     "This resource no longer exists": "ทรัพยากรนี้ไม่มีอีกต่อไป",
     "This subscription has expired and cannot be resumed. Please create a new subscription.": "การสมัครสมาชิกนี้หมดอายุแล้วและไม่สามารถดำเนินการต่อได้ โปรดสร้างการสมัครสมาชิกใหม่",
     "This user already belongs to the team.": "นี่ของผู้ใช้แล้วเป็นของทีม",
